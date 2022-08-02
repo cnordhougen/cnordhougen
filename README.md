@@ -13,7 +13,7 @@ I am a:
 - cinephile
 
 ## Currently
-As of mid-2021, I'm thinking about how to take SPS's design system to the next level, and about engaging with the world outside of SPS more, hence setting up a profile and a Twitter account.
+Working on adopting design tokens in our design system.
 
 ## Stats
 [![cnordhougen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cnordhougen&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
