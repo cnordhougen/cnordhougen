@@ -4,9 +4,7 @@
 
 I am a:
 - Staff Software Engineer at SPS Commerce in Minneapolis
-  - supporting two dev teams
-  - product owner and lead contributor to SPS's design system
-  - leading our frontend developer internal community group, UI Guild
+  - product owner and lead contributor to Woodland Design System
   - leading the Frontend Architecture Working Group, setting the standards and practices for frontend development at SPS
 - United States Air Force veteran and air & space nerd
 - double college dropout
