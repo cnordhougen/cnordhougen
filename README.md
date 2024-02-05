@@ -1,6 +1,6 @@
 # Hi, I'm Chris Nordhougen 👋🏻
 
-[![Twitter](./icons8-twitter-48.png)](https://twitter.com/cwnord) [![LinkedIn](./icons8-linkedin-48.png)](https://www.linkedin.com/in/cnordhougen)
+[![LinkedIn](./icons8-linkedin-48.png)](https://www.linkedin.com/in/cnordhougen)
 
 I am a:
 - Staff Software Engineer at SPS Commerce in Minneapolis
