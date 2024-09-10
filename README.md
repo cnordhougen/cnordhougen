@@ -1,4 +1,4 @@
-# Hi, I'm Chris Nordhougen 👋🏻
+# Hi, I'm Christine Nordhougen 👋🏻
 
 [![LinkedIn](./icons8-linkedin-48.png)](https://www.linkedin.com/in/cnordhougen)
 
